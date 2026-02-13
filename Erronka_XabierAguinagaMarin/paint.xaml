@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Erronka_XabierAguinagaMarin"
              mc:Ignorable="d" Height="511" Width="874">
-    <Grid Background="AliceBlue">
+    <Grid Background="#FF314B8C">
         <Grid.ColumnDefinitions>
             <ColumnDefinition MinWidth="575"/>
             <ColumnDefinition/>
@@ -19,7 +19,7 @@
             </Grid>
         </Border>
         <StackPanel Grid.Column="1" Margin="0,0,20,0" VerticalAlignment="Center" Height="434">
-            <Label Content="Editing mode" FontWeight="SemiBold" FontSize="16"/>
+            <Label Content="Edizio modua" FontWeight="SemiBold" FontSize="16" FontFamily="Arial Black"/>
             <StackPanel Orientation="Horizontal" Margin="5,10,0,0">
                 <ToggleButton Name="SelectBtn" Padding="5" Margin="0,0,10,0" ToolTip="Select" Background="White" Click="SelectBtn_Click">
                     <Image Height="24" Width="24" Source="https://img.icons8.com/fluency/48/cursor--v1.png"/>
@@ -34,7 +34,7 @@
                     <Image Height="24" Width="24" Source="https://img.icons8.com/fluency/48/erase.png"/>
                 </ToggleButton>
             </StackPanel>
-            <Label Content="Pen colour" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0" />
+            <Label Content="Boligrafo kolorea (RGB idatzi)" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0" FontFamily="Arial Black" />
             <StackPanel Orientation="Horizontal" Margin="5,10,0,0">
                 <TextBox TextWrapping="Wrap" x:Name="Rcolor" MaxLength="3" TextChanged="PenColorPicker_SelectedColorChanged" Height="20" Width="30" Margin="0,0,52,0"/>
                 <TextBox TextWrapping="Wrap" x:Name="Bcolor" MaxLength="3" TextChanged="PenColorPicker_SelectedColorChanged" Height="20" Width="30" Margin="0,0,52,0"/>
@@ -44,9 +44,9 @@
 
             <!-- <PaintPrueba:ColorPicker x:Name="PenColorPicker" SelectedColorChanged="PenColorPicker_SelectedColorChanged" ShowStandardColors="False" UsingAlphaChannel="False" SelectedColor="Black" Margin="5,10,0,0" Height="30" ColorMode="ColorCanvas" DisplayColorAndName="True" Width="200" HorizontalAlignment="Left" FontSize="14"/> -->
 
-            <Label Content="Pen thickness" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0"/>
+            <Label Content="Boligrafo lodiera" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0" FontFamily="Arial Black"/>
             <Slider x:Name="ThicknessSlider" ValueChanged="ThicknessSlider_ValueChanged" Margin="5,10,0,0" IsSnapToTickEnabled="True" Minimum="1" Maximum="5" Value="2"/>
-            <Label Content="Highlighter colour" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0"/>
+            <Label Content="Fosforito kolorea" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0" FontFamily="Arial Black"/>
             <StackPanel Orientation="Horizontal" Margin="5,10,0,0">
                 <RadioButton Name="YellowRadio" Click="YellowRadio_Click" GroupName="HighlighterRadios" Margin="0,0,15,0" IsChecked="True" VerticalContentAlignment="Center">
                     <Rectangle Fill="Yellow" Height="20" Width="50" Stroke="Gray"/>
@@ -58,10 +58,10 @@
                     <Rectangle Fill="Magenta" Height="20" Width="50" Stroke="Gray"/>
                 </RadioButton>
             </StackPanel>
-            <Label Content="Eraser type" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0"/>
+            <Label Content="Borratzeko modua" FontWeight="SemiBold" FontSize="16" Margin="0,25,0,0" FontFamily="Arial Black"/>
             <StackPanel Orientation="Horizontal" Margin="5,10,0,5">
-                <RadioButton Name="PartialStrokeRadio" Click="PartialStrokeRadio_Click" Content="Partial stroke" GroupName="EraserTypeRadios" Margin="0,0,25,0" IsChecked="True" FontSize="14" VerticalContentAlignment="Center"/>
-                <RadioButton Name="FullStrokeRadio" Click="FullStrokeRadio_Click" Content="Full stroke" GroupName="EraserTypeRadios" FontSize="14" VerticalContentAlignment="Center"/>
+                <RadioButton Name="PartialStrokeRadio" Click="PartialStrokeRadio_Click" Content="Partziala" GroupName="EraserTypeRadios" Margin="0,0,25,0" IsChecked="True" FontSize="14" VerticalContentAlignment="Center" FontFamily="Arial Black"/>
+                <RadioButton Name="FullStrokeRadio" Click="FullStrokeRadio_Click" Content="Guztia" GroupName="EraserTypeRadios" FontSize="14" VerticalContentAlignment="Center" FontFamily="Arial Black"/>
             </StackPanel>
         </StackPanel>
     </Grid>

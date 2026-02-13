@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Erronka_XabierAguinagaMarin_Zerbitzari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d380d4e6aa29d46ac9d1304ea2d8705dcc72b239")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8dad84c05403230450ff9501eca4da6ee8f8ab5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Erronka_XabierAguinagaMarin_Zerbitzari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Erronka_XabierAguinagaMarin_Zerbitzari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
