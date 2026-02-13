@@ -1,0 +1,14 @@
+﻿<Window x:Class="Erronka_XabierAguinagaMarin_Zerbitzari.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Erronka_XabierAguinagaMarin_Zerbitzari"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="MainWindow_Closing">
+    <Grid>
+        <Button x:Name="Hasi" Content="Encender servidor" HorizontalAlignment="Left" Margin="87,67,0,0" VerticalAlignment="Top" Height="59" Width="173" Click="Hasi_Click"/>
+        <Button x:Name="Itxi" Content="Apagar servidor" HorizontalAlignment="Center" Margin="0,67,0,0" VerticalAlignment="Top" Height="59" Width="174" IsEnabled="False" Click="Itxi_Click"/>
+
+    </Grid>
+</Window>

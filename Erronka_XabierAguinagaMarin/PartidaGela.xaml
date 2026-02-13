@@ -1,0 +1,20 @@
+﻿<Window x:Class="Erronka_XabierAguinagaMarin.PartidaGela"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Erronka_XabierAguinagaMarin"
+        mc:Ignorable="d"
+        Title="Partida" Height="450" Width="800" Closing="Client_Closing">
+    <Grid Background="#FF314B8C">
+        <Button Content="Partida hasi" HorizontalAlignment="Left" Margin="539,171,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" Name="Hosteatu" FontSize="30" Background="#FF5B65B7" BorderBrush="#FF282F65" Click="Hosteatu_Click"/>
+        <Border Margin="10,12,590,10" BorderBrush="#FF000000" BorderThickness="10" CornerRadius="10">
+            <ListBox Background="#FF203361" BorderBrush="Black" FontFamily="Bahnschrift SemiBold Condensed" FontSize="25" Name="partaideLista"/>
+        </Border>
+        <Border Margin="215,12,385,10" BorderBrush="#FF000000" BorderThickness="10" CornerRadius="10" Visibility="Collapsed" Name="puntuakBorde">
+            <ListBox Background="#FF203361" BorderBrush="Black" FontFamily="Bahnschrift SemiBold Condensed" FontSize="25" Name="partaidePuntuak" SelectionChanged="PartaidePuntuak_SelectionChanged"/>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" Margin="455,12,0,0" TextWrapping="Wrap" Text="Partida kodigoa: " VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" Name="partidaCode"/>
+
+    </Grid>
+</Window>

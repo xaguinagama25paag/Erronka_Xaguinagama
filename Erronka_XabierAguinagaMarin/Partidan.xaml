@@ -1,0 +1,29 @@
+﻿<Window x:Class="Erronka_XabierAguinagaMarin.Partidan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Erronka_XabierAguinagaMarin"
+        mc:Ignorable="d"
+        Title="Partida" Height="511" Width="874">
+    <Grid Background="#FF314B8C">
+        <Grid Background="#FF314B8C" Name="Deskripzioa">
+            <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" Height="66" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" Name="Eszenatokia" Margin="572,248,0,0"/>
+            <TextBlock HorizontalAlignment="Left" Margin="619,143,0,0" TextWrapping="Wrap" Text="Idatzi eszenatoki bat marrazkiarentzako:" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="30" Name="deskribatu"/>
+            <Grid Margin="10,170,347,36">
+                <Grid.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="15" Opacity="0.15" ShadowDepth="2"/>
+                </Grid.Effect>
+                <Image x:Name="marrazkiak" Margin="0,-80,-27,64"/>
+            </Grid>
+        </Grid>
+        <Grid Background="#FF314B8C" Name="Marrazki" Visibility="Collapsed">
+            <local:Painta x:Name="marrazkia"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Marrazki librea" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="24" Name="eszenatokiText" Width="406" Margin="166,0,0,0" TextAlignment="Center" Foreground="#FFFF7373"/>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Partida kantitatea:" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" Name="partidaKantitate" Width="223"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Temporizadorea" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="36" Name="Temporizadorea" Margin="675,0,0,0"/>
+
+    </Grid>
+
+</Window>
