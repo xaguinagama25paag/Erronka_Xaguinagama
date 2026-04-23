@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\datubaseatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\erronka_xabieraguinagamarin_zerbitzari.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\datubasea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\lobby.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:lobby.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\lobby.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:lobby.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\paint.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:paint.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\paint.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:paint.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513E89B8-F2DC-4F7B-BA2D-54952A1A5921}|..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin_zerbitzari\\erabiltzaile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\partidan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:partidan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ik012982i18\\source\\repos\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\erabiltzaile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:erabiltzaile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\partidagela.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:partidagela.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\partidagela.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:partidagela.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|c:\\users\\iris-port-023\\documents\\otherstuff\\erronka_xaguinagama\\erronka_xabieraguinagamarin\\partidan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90507623-8F59-454C-9504-43506A924E92}|Erronka_XabierAguinagaMarin.csproj|solutionrelative:partidan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Erronka_XabierAguinagaMarin_Zerbitzari.csproj",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erronka_XabierAguinagaMarin_Zerbitzari.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T07:09:11.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatubaseaTests.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\DatubaseaTests.cs",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\DatubaseaTests.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\DatubaseaTests.cs",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\DatubaseaTests.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:09:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PartidaGela.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\PartidaGela.xaml",
+              "RelativeDocumentMoniker": "PartidaGela.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\PartidaGela.xaml",
+              "RelativeToolTip": "PartidaGela.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lobby.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Lobby.xaml",
+              "RelativeDocumentMoniker": "Lobby.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Lobby.xaml",
+              "RelativeToolTip": "Lobby.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lobby.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Lobby.xaml.cs",
+              "RelativeDocumentMoniker": "Lobby.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Lobby.xaml.cs",
+              "RelativeToolTip": "Lobby.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Partida.cs",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Partida.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Partida.cs",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Partida.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA7wGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "paint.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\paint.xaml",
+              "RelativeDocumentMoniker": "paint.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\paint.xaml",
+              "RelativeToolTip": "paint.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "paint.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\paint.xaml.cs",
+              "RelativeDocumentMoniker": "paint.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\paint.xaml.cs",
+              "RelativeToolTip": "paint.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datubasea.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Datubasea.cs",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Datubasea.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Datubasea.cs",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Datubasea.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartidaGela.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\PartidaGela.xaml.cs",
+              "RelativeDocumentMoniker": "PartidaGela.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\PartidaGela.xaml.cs",
+              "RelativeToolTip": "PartidaGela.xaml.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAewLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Erabiltzaile.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erabiltzaile.cs",
+              "RelativeDocumentMoniker": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erabiltzaile.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erabiltzaile.cs",
+              "RelativeToolTip": "..\\Erronka_XabierAguinagaMarin_Zerbitzari\\Erabiltzaile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:51:03.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Partidan.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Partidan.xaml.cs",
+              "RelativeDocumentMoniker": "Partidan.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Partidan.xaml.cs",
+              "RelativeToolTip": "Partidan.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAnwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Partidan.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Partidan.xaml",
+              "RelativeDocumentMoniker": "Partidan.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Partidan.xaml",
+              "RelativeToolTip": "Partidan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Registro.xaml.cs",
+              "RelativeDocumentMoniker": "Registro.xaml.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Registro.xaml.cs",
+              "RelativeToolTip": "Registro.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAMwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registro.xaml",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Registro.xaml",
+              "RelativeDocumentMoniker": "Registro.xaml",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Registro.xaml",
+              "RelativeToolTip": "Registro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Erabiltzaile.cs",
+              "DocumentMoniker": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Erabiltzaile.cs",
+              "RelativeDocumentMoniker": "Erabiltzaile.cs",
+              "ToolTip": "C:\\Users\\IRIS-PORT-023\\Documents\\otherStuff\\Erronka_Xaguinagama\\Erronka_XabierAguinagaMarin\\Erabiltzaile.cs",
+              "RelativeToolTip": "Erabiltzaile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:40:59.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ik012982i18\\source\\repos\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ik012982i18\\source\\repos\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ik012982i18\\source\\repos\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ik012982i18\\source\\repos\\Erronka_XabierAguinagaMarin_Zerbitzari\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T08:40:59.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

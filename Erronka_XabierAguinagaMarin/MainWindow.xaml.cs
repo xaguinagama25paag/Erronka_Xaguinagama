@@ -47,8 +47,8 @@ namespace Erronka_XabierAguinagaMarin
                 }));
                 ipa = IPAddress.Parse("127.0.0.1");
                 client = new TcpClient();
-                try
-                {
+               // try
+              //  {
                     client.Connect(ipa, port);
                     ns = client.GetStream();
                     reader = new StreamReader(ns, Encoding.UTF8);
@@ -71,7 +71,7 @@ namespace Erronka_XabierAguinagaMarin
                     //  });
                     //  entzuten.Start();
 
-                }
+               /* }
                 catch
                 {
                     Application.Current.Dispatcher.Invoke(new Action(() =>
@@ -81,7 +81,7 @@ namespace Erronka_XabierAguinagaMarin
                         berriro.Visibility = Visibility.Visible;
                     }));
 
-                }
+                }*/
 
             }).Start();
         }
@@ -95,8 +95,8 @@ namespace Erronka_XabierAguinagaMarin
 
 
 
-            try
-            {
+          //  try
+           // {
                 writer.WriteLine("1");
                 writer.WriteLine(izena.Text);
                 writer.WriteLine(pasahitza.Password.ToString());
@@ -113,11 +113,11 @@ namespace Erronka_XabierAguinagaMarin
                 {
                     MessageBox.Show("Oso gaizki");
                 }
-            }
+          /*  }
             catch
             {
                 MessageBox.Show("Ez dago zerbitzariarekin konekxiorik");
-            }
+            }*/
         }
         private void SaiatuBerriro(object sender, RoutedEventArgs e)
         {

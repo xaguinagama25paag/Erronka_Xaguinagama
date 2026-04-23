@@ -15,7 +15,7 @@ namespace Erronka_XabierAguinagaMarin_Zerbitzari
         public Datubasea()
         {
 
-           dbConnection = new SQLiteConnection(@"Data Source=datubasea.s3db");
+           dbConnection = new SQLiteConnection(@"Data Source=C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\datubasea.s3db");
         }
 
         public static void Konektatu()

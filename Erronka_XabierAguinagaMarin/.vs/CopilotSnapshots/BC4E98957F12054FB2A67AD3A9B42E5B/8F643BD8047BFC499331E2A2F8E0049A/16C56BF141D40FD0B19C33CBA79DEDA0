@@ -1,0 +1,46 @@
+﻿using Erronka_XabierAguinagaMarin_Zerbitzari;
+using System;
+using System.Data.SQLite;
+using System.IO;
+using Xunit;
+
+public class DatubaseaTests
+{
+    string CreateTempDbWithSchema()
+    {
+        var tmp = Path.Combine(Path.GetTempPath(), Guid.NewGuid().ToString() + ".s3db");
+        SQLiteConnection.CreateFile(tmp);
+        using var conn = new SQLiteConnection($"Data Source={tmp}");
+        conn.Open();
+        using var cmd = conn.CreateCommand();
+        cmd.CommandText = @"
+            CREATE TABLE Erabiltzaileak (id INTEGER PRIMARY KEY AUTOINCREMENT, izena TEXT, pasahitza TEXT);
+            CREATE TABLE Puntuazioa (id INTEGER PRIMARY KEY AUTOINCREMENT, idErabiltzaile INTEGER, puntuazio INTEGER, idEbaluatzaile INTEGER);
+        ";
+        cmd.ExecuteNonQuery();
+        return tmp;
+    }
+
+    [Fact]
+    public void SortuKontua_Then_LortuErabiltzailea_ReturnsCreatedUser()
+    {
+        var dbFile = CreateTempDbWithSchema();
+        try
+        {
+            var datab = new Datubasea();
+            Datubasea.Konektatu();
+
+            datab.sortuKontua("probaUser", "Pasahitz1");
+            var user = datab.lortuErabiltzailea("probaUser", "Pasahitz1");
+
+            Assert.NotNull(user);
+            Assert.True(user.getId() > 0);
+            Assert.Equal("probaUser", user.getIzena());
+        }
+        finally
+        {
+            Datubasea.Itzali();
+            File.Delete(dbFile);
+        }
+    }
+}

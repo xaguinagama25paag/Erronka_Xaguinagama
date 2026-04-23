@@ -24,6 +24,7 @@
 
         <TextBox HorizontalAlignment="Left" Margin="538,251,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="206" x:Name="kodigo" FontFamily="Bahnschrift SemiBold Condensed" Height="40"/>
         <TextBlock HorizontalAlignment="Left" Margin="270,247,0,0" TextWrapping="Wrap" Text="Partida kodigoa: " VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" Name="partidaCode"/>
+        <Button Content="Deskargatu kalifikazioa" HorizontalAlignment="Left" Margin="260,35,0,0" VerticalAlignment="Top" Click="Deskargatu_Click" FontFamily="Bahnschrift SemiBold Condensed" x:Name="Deskargatu"  FontSize="30" Background="#FF5B65B7" BorderBrush="#FF282F65"/>
 
     </Grid>
 </Window>
