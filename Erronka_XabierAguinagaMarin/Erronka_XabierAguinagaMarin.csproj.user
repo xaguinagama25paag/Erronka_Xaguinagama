@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_LastSelectedProfileId>C:\Users\ik012982i18\Downloads\Erronka_XabierAguinagaMarin_v02\Erronka_XabierAguinagaMarin\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <_LastSelectedProfileId>C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="Lobby.xaml.cs">

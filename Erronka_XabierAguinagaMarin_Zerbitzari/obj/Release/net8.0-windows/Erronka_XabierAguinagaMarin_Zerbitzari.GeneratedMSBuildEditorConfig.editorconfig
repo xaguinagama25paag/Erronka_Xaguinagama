@@ -1,5 +1,7 @@
 is_global = true
 build_property.TargetFramework = net8.0-windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
 build_property.TargetPlatformMinVersion = 7.0
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -8,7 +10,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Erronka_XabierAguinagaMarin_Zerbitzari
-build_property.ProjectDir = C:\Users\ik012982i18\Downloads\Erronka_XabierAguinagaMarin_v02\Erronka_XabierAguinagaMarin_Zerbitzari\
+build_property.ProjectDir = C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

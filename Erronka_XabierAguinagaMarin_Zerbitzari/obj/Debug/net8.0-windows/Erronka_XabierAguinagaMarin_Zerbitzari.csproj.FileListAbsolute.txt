@@ -238,3 +238,6 @@ C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAg
 C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\obj\Debug\net8.0-windows\Erronka_XabierAguinagaMarin_Zerbitzari.pdb
 C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\obj\Debug\net8.0-windows\Erronka_XabierAguinagaMarin_Zerbitzari.genruntimeconfig.cache
 C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\obj\Debug\net8.0-windows\ref\Erronka_XabierAguinagaMarin_Zerbitzari.dll
+C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\IRIS-PORT-023\Documents\otherStuff\Erronka_Xaguinagama\Erronka_XabierAguinagaMarin_Zerbitzari\bin\Debug\net8.0-windows\xunit.core.dll
