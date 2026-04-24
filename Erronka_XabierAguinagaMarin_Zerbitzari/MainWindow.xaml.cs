@@ -40,9 +40,16 @@ namespace Erronka_XabierAguinagaMarin_Zerbitzari
         public MainWindow()
         {
             InitializeComponent();
-            databasea = new Datubasea();
-            Datubasea.Konektatu();
-
+            try
+            {
+                databasea = new Datubasea();
+                Datubasea.Konektatu();
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Errorea datubasearekin: " + e.Message);
+                Application.Current.Shutdown();
+            }
         }
         private void Hasi_Click(object sender, RoutedEventArgs e)
         {

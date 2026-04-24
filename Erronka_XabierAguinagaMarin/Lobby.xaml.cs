@@ -163,7 +163,7 @@ namespace Erronka_XabierAguinagaMarin
 
         private void Deskargatu_Click(object sender, RoutedEventArgs e)
         {
-            sortuPdf.SavePdf("C:\\Users\\IRIS-PORT-023\\Downloads\\",puntuazioLortu,puntuazioEman);
+            sortuPdf.SavePdf("C:\\Users\\Usuario\\Downloads\\", puntuazioLortu,puntuazioEman);
         }
     }
 }
