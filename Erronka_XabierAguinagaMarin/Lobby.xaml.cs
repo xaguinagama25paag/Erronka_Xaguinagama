@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using QuestPDF.Fluent;
+using QuestPDF.Helpers;
+using QuestPDF.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
@@ -14,9 +18,6 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using QuestPDF.Fluent;
-using QuestPDF.Helpers;
-using QuestPDF.Infrastructure;
 
 namespace Erronka_XabierAguinagaMarin
 {
@@ -157,13 +158,27 @@ namespace Erronka_XabierAguinagaMarin
                 });
 
                 // Synchronously write PDF to disk
-                doc.GeneratePdf(filePath+"Kalifikazioak_"+data+".pdf");
+                doc.GeneratePdf(filePath+"\\"+"Kalifikazioak_"+data+".pdf");
             }
         }
 
         private void Deskargatu_Click(object sender, RoutedEventArgs e)
         {
-            sortuPdf.SavePdf("C:\\Users\\Usuario\\Downloads\\", puntuazioLortu,puntuazioEman);
+            var folderName="";
+            var folderDialog = new OpenFolderDialog
+            {
+                Title = "Select Folder",
+                InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86)
+            };
+
+            if (folderDialog.ShowDialog() == true)
+            {
+                folderName = folderDialog.FolderName;
+                MessageBox.Show($"Saved successfully in ${folderName}!");
+            }
+
+            sortuPdf.SavePdf(folderDialog.FolderName, puntuazioLortu, puntuazioEman);
+
         }
     }
 }
